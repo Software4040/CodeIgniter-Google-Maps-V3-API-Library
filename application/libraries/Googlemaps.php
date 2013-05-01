@@ -12,6 +12,8 @@
  * @link		http://biostall.com/codeigniter-google-maps-v3-api-library
  * @docs		http://biostall.com/wp-content/uploads/2010/07/Google_Maps_V3_API_Documentation.pdf
  */
+
+ /* new Changes */
  
 class Googlemaps {
 	
